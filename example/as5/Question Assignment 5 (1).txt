@@ -1,0 +1,15 @@
+﻿Q1: the big-O cast for KMT search is less than Brute search, In real situation, the KMT search is faster than brute force search.
+
+Q2: input length:  3258246 bytes 
+output length: 1848598 bytes
+
+Q3: input length:  3649944 bytes 
+output length: 1542656 bytes
+
+    input length:  1010003 bytes 
+output length: 443632 bytes
+
+pi.txt have best compression because the i.txt just have number.
+
+
+

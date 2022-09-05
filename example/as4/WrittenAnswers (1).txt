@@ -1,0 +1,24 @@
+﻿1): 
+([^<>/\\\|:""\*\?]+\.\w+$)
+2):
+
+
+
+
+
+
+3):a-b as a capturing group of least one of any number of c
+4):
+
+
+
+
+5):
+6):
+7):
+8):
+
+Report 
+In this program,I think the big problem is the order of design the analysis the program.
+Also I m stack on stage four because so confused about the meaning
+
